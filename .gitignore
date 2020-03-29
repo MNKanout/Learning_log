@@ -1,2 +1,4 @@
-ll_venv
-db.sqlite3
+ll_venv/
+*.sqlite3
+__pycashe__/
+.DS_Store
