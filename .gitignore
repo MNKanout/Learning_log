@@ -97,6 +97,7 @@ ipython_config.py
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
+learning_log/__pycache__/settings.cpython-37.pyc
 
 # Celery stuff
 celerybeat-schedule
@@ -142,3 +143,5 @@ cython_debug/
 # static files generated from Django application using `collectstatic`
 media
 static
+
+.idea/workspace.xml
