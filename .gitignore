@@ -144,4 +144,7 @@ cython_debug/
 media
 static
 
+# Vscode
+.vscode/
+
 .idea/workspace.xml
